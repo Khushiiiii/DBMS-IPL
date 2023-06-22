@@ -1,4 +1,8 @@
-# DBMS-IPL
+# Database Management System to store and manage data of the Indian Premier League
+- February 2023 - April 2023
+- We worked in a team of 4 people. I have worked on all the aspects of this project with my team members.
+
+
 ## Objective of the Project
 We want to design and implement a database that handles the data of the Indian Premier League. Individual players profiles, data of matches, teams, sponsors, owners can be stored and viewed from this database. This database can be used by the IPL administration for various purposes like marketing, knowing individual player’s performance etc.
 We should be able to get information such as the players of the teams, results of matches, wickets of particular teams/players, data about the coaches of the teams, who was the owner of the team, location of the stadium where the match was played, etc.
